@@ -1,15 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to my portfolio
+This page is contains few example data science project. Types of my project are such classification or class probability estimation, regression, similarity, clustering and there are some project using deep learning. Most my projects are from Datacamp, and I got instruction from my instructures to do the project.
 
-You can use the [editor on GitHub](https://github.com/evanarnanda/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 1. [Project title](link)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Description of the project
 
 ```markdown
-Syntax highlighted code block
+Maybe some code to show the visitor
 
 # Header 1
 ## Header 2
@@ -30,8 +28,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evanarnanda/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
