@@ -11,3 +11,11 @@ This project use the Credit Card Approval dataset from the UCI Machine Learning 
 * EDA or exploratory data analysis to create senses of the data
 Finally, building a machine learning model that can predict if an individual's application for a credit card will be accepted.
 
+# 2. [Comparing Cosmetics by Ingredients](link)
+This project is to helping people that strugle to predict cosmetic product that good for them. This project also example for content-based recommendation system. The structure of this notebook is as follows:
+
+* loading and viewing the dataset.
+* filtering the data to one category product and one skin type
+* pre-processing the data
+* Building the model
+* Visualizing the similar cosmetics
