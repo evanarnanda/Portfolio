@@ -1,12 +1,12 @@
 # Portfolio
-This portfolio is about data science project, currently I'm still learning and looking for another project.
+This portfolio is about Muhammad Evan Arnanda projects that already done. From data science projects to web projects.
 
-# Project 1: [](link)
+# [Data Science Projects](link)
 * 
 * 
 * 
 
-# Project 2: [](link)
+# [Website Projects](link)
 *
 *
 *
